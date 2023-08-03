@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title>Online Hire</title>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#careers">Careers</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <div id="logo">
+        <img src="./images/logo.png" alt="Online Hire">
+    </div>
+    <form id="searchForm">
+        <label for="searchInput">Search Jobs</label><br>
+        <input type="text" list="datalistOptions" id="searchInput" placeholder="Search by title">
+        <datalist id="datalistOptions">
+     
+        </datalist>
+        <button type="submit">Search</button>
+    </form>
+     
+     <h1>Job Openings</h1>
+     <div class="container">
+     <div id="jobPosts">
+    <!--jobs displayed Her-->
+     </div>
+     <div id="postForm">
+       <h2>Post New Job</h2>
+       <form id="postJob">
+        <label for="title">Title</label><br>
+        <input type="text" id="title" placeholder="Job Title" required> <br>
+
+        <label for="description">Description</label><br>
+       <textarea  id="description" placeholder="Job Description" required cols="30" rows="10"></textarea><br>
+       <button type="submit">Post Job</button>
+
+       </form>
+
+       
+    </div>
+    <div>
+    <form id ="updateForm">
+        <input type="number" id ="newId" placeholder="Enter Id"> 
+        <input type="text" id="newtTitle" placeholder="Enter Job Title">
+        <button type="submit" id ="updateButton">Click to Update</button>
+        
+    </form>
+    </div>
+     <div>
+       <form id ="deleteForm">
+        <input type="number" id ="deleteId" placeholder="Enter Id" required>
+        <button type="submit" id ="deleteButton">Delete</button>
+        
+       </form>
+     </div>
+    </div>
+    <div id="addComment" >
+        <h2>Add Comment</h2>
+        <form id="commentForm">
+            <label for="comment">Enter Job ID</label><br>
+            <input type="number" id="commentId" placeholder="Enter Job ID" required ><br>
+            <label for="comments">Comments</label><br>
+            <textarea  id="comment" placeholder="Your Comment"cols="30" rows="10"></textarea><br>
+            <button type="submit">Add Comment</button>
+            
+
+        </form>
+
+    </div>
+
+
+
+  <script src="./index.js"></script>  
+</body>
+</html>

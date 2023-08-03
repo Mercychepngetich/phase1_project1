@@ -1,0 +1,96 @@
+
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color:skyblue;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  nav li {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 20px;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  
+  #logo {
+    text-align: right;
+    
+    margin-right: 50vh;
+  }
+  
+  #logo img {
+    max-width: 200px;
+  }
+  
+ 
+  form {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 30%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  #searchForm{
+   text-align: center;
+
+  }
+  
+  button {
+    background-color:navy;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+ 
+  h1 {
+    text-align: center;
+  }
+  
+  #jobPosts {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+
+  #postForm h2 {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+ 
+  #updateForm,
+  #deleteForm {
+    margin-bottom: 20px;
+  }
+  
+
+  #addComment  {
+    display: none;
+    
+  }
+  
