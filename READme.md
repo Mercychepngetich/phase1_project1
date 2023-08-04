@@ -10,10 +10,10 @@ Welcome to Online Hire, a simple web application that allows users to post, sear
 
 ## Technologies used
 To run the Online Hire website Application, you need the following:
-1. 
-2. Javascript
-3. HTML
-4. CSS
+ 
+1. Javascript<br>
+2. HTML<br>
+3. CSS<br>
 
 
   
