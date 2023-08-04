@@ -2,11 +2,21 @@
 Welcome to Online Hire, a simple web application that allows users to post, search, update, and delete job openings. This README provides an overview of the project and instructions on how to run and use the application effectively.
 
 ## Table of Contents
+. Technologies used<br>
 . Features<br>
 . Installation<br>
 . Usage<br>
 . License<br>
 
+## Technologies used
+To run the Online Hire website Application, you need the following:
+1. 
+2. Javascript
+3. HTML
+4. CSS
+
+
+  
 ## Features
 Online Hire offers the following features:
 
