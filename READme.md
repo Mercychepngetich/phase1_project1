@@ -2,19 +2,19 @@
 Welcome to Online Hire, a simple web application that allows users to post, search, update, and delete job openings. This README provides an overview of the project and instructions on how to run and use the application effectively.
 
 ## Table of Contents
-. Features
-. Installation
-. Usage
-. License
+. Features<br>
+. Installation<br>
+. Usage<br>
+. License<br>
 
 ## Features
 Online Hire offers the following features:
 
-. Post a new job with a title and description.
-. View all job openings available on the platform.
-. Search for specific job openings by title.
-. Update the title of an existing job post.
-. Delete a job post.
+. Post a new job with a title and description.<br>
+. View all job openings available on the platform.<br>
+. Search for specific job openings by title.<br>
+. Update the title of an existing job post.<br>
+. Delete a job post.<br>
 . Add comments to job posts.
 
 ## Installation
