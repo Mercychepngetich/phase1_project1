@@ -10,28 +10,46 @@ body {
     margin: 0;
     padding: 0;
   }
-  nav li {
+
+  #navContainer{
+  background-color:steelblue;
+  }
+  
+  
+
+  nav ul{
+    
+    margin-right: 20px;
+    text-align: center;
+   
+  }
+
+  nav ul li {
     display: inline-block;
-    margin-right: 30px;
-    margin-top: 20px;
+    line-height: 80px;
+    margin: 0.5px;
+    padding: 0.5em;
+   
+  }
+  nav ul li a{
+    color: whitesmoke;
+    font-size: large;
+    
+  }
+  a.active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
+    padding: 7px 13px;
+    border-radius: 3px;
   }
   
   .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-  }
-  
-  
-  #logo {
-    text-align: right;
     
-    margin-right: 50vh;
   }
-  
-  #logo img {
-    max-width: 200px;
-  }
+    
   
  
   form {
@@ -55,7 +73,7 @@ body {
   }
   
   button {
-    background-color:navy;
+    background-color:steelblue;
     color: #fff;
     padding: 10px 20px;
     border: none;
