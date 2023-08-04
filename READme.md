@@ -1,4 +1,4 @@
-# Online Hire Rcruitment Agency
+# Online Hire Recruitment Agency
 Welcome to Online Hire, a simple web application that allows users to post, search, update, and delete job openings. This README provides an overview of the project and instructions on how to run and use the application effectively.
 
 ## Table of Contents
