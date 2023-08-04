@@ -1,4 +1,4 @@
-# Online Hire - Job Posting Platform
+# Online Hire Rcruitment Agency
 Welcome to Online Hire, a simple web application that allows users to post, search, update, and delete job openings. This README provides an overview of the project and instructions on how to run and use the application effectively.
 
 ## Table of Contents
@@ -57,7 +57,7 @@ Enter the job ID you want to comment on and your comment text in the respective 
 Click the "Add Comment" button to submit your comment.
 If the comment is added successfully, you will receive an alert, and the job list will be refreshed. However these functionality required more improvement.
 
-##License
+## License
 
 Online Hire is licensed under the MIT License. See the LICENSE file for more details.
 
