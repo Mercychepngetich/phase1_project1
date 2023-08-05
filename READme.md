@@ -27,6 +27,8 @@ cd **phase1_project1**
 2. Open the **index.html** file in your web browser to view the Online Hire application.
 
 ## Usage
+Before you start running the app, first open these remote API link https://phase1-project01.onrender.com/jobs
+and here is the link to frontend https://main--aesthetic-cucurucho-6adfb2.netlify.app/
 
 ###  1. View Job Openings:
 
