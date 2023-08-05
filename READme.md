@@ -1,20 +1,30 @@
-# Online Hire - Job Posting Platform
+# Online Hire Recruitment Agency
 Welcome to Online Hire, a simple web application that allows users to post, search, update, and delete job openings. This README provides an overview of the project and instructions on how to run and use the application effectively.
 
 ## Table of Contents
-. Features
-. Installation
-. Usage
-. License
+. Technologies used<br>
+. Features<br>
+. Installation<br>
+. Usage<br>
+. License<br>
 
+## Technologies used
+To run the Online Hire website Application, you need the following:
+ 
+1. Javascript<br>
+2. HTML<br>
+3. CSS<br>
+
+
+  
 ## Features
 Online Hire offers the following features:
 
-. Post a new job with a title and description.
-. View all job openings available on the platform.
-. Search for specific job openings by title.
-. Update the title of an existing job post.
-. Delete a job post.
+. Post a new job with a title and description.<br>
+. View all job openings available on the platform.<br>
+. Search for specific job openings by title.<br>
+. Update the title of an existing job post.<br>
+. Delete a job post.<br>
 . Add comments to job posts.
 
 ## Installation
@@ -29,7 +39,6 @@ cd **phase1_project1**
 ## Usage
 Before you start running the app, first open these remote API link https://phase1-project01.onrender.com/jobs
 and here is the link to frontend https://main--aesthetic-cucurucho-6adfb2.netlify.app/
-
 ###  1. View Job Openings:
 
 On the homepage, you can see all the job openings available. Each job posting displays the job title, description, and any existing comments.
@@ -59,7 +68,7 @@ Enter the job ID you want to comment on and your comment text in the respective 
 Click the "Add Comment" button to submit your comment.
 If the comment is added successfully, you will receive an alert, and the job list will be refreshed. However these functionality required more improvement.
 
-##License
+## License
 
 Online Hire is licensed under the MIT License. See the LICENSE file for more details.
 
