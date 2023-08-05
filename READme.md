@@ -37,6 +37,7 @@ cd **phase1_project1**
 2. Open the **index.html** file in your web browser to view the Online Hire application.
 
 ## Usage
+Before you start running the app, first open these remote API link "https://phase1-project01.onrender.com/jobs"
 
 ###  1. View Job Openings:
 
